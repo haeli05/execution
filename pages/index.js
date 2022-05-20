@@ -87,7 +87,7 @@ export default function Index() {
         <Box sx={{ my: 4, paddingTop: 7 }}>
           <Paper>
           <Typography variant="h3" component="h1" gutterBottom>
-            Solana Execution Engine
+            Solana Execution Engine Better than Jup
           </Typography>
             {/* Card body */}
             <Paper>
